@@ -34,3 +34,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+.DS_Store
+Assets/SteamVR_Input
+Assets/SteamVR_Input.meta
+Assets/Resources/Standard Assets
+Assets/Resources/Standard Assets.meta
+Assets/Resources/SteamVR
+Assets/Resources/SteamVR.meta
+Assets/Resources/SampleScenes
+Assets/Resources/SampleScenes.meta
