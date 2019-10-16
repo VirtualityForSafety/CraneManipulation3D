@@ -21,7 +21,8 @@ CraneManipulation3D is a simple virtual training implementation which includes f
 1. Download or pull this repository.
 2. Download and import [Unity Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351) from AssetStore
 3. Download and import [SteamVR Plugin](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647)
-4. Hit the run button.
+4. When you are required to set SteamVRInput up, choose 'GrabGrip' from Actions and press 'Save and Generate'.
+5. Hit the run button.
 
 ## Acknowledgement
 This project has been implemented through a [research collaboration](https://virtualityforsafety.github.io/about/) with KAIST (Hyeopwoo Lee), Xi’an Jiaotong-Liverpool University (Prof. Hai-Ning Liang,
